@@ -1,4 +1,4 @@
-package cn.com.companyname.rustonandroid
+package cn.com.company.rustonandroid
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
